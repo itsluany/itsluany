@@ -1,9 +1,9 @@
 ## Olá! Eu sou a Luany Ferreira
 
-##
-
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UniAmérica Descomplica.
+
 💻 Apaixonada por tecnologia, com foco em desenvolvimento Front-End.
+
 🚀 Buscando oportunidades para crescer profissionalmente, aprender novas tecnologias e contribuir com projetos que impactem positivamente a experiência do usuário.
 
 ##
