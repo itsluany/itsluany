@@ -1,5 +1,12 @@
 ## Olá! Eu sou a Luany Ferreira
 
+##
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UniAmérica Descomplica.
+💻 Apaixonada por tecnologia, com foco em desenvolvimento Front-End.
+🚀 Buscando oportunidades para crescer profissionalmente, aprender novas tecnologias e contribuir com projetos que impactem positivamente a experiência do usuário.
+
+##
 <div>
   <a href="https://github.com/itsluany">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsluany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
