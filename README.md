@@ -4,10 +4,6 @@
 💻 Apaixonada por tecnologia, com foco em desenvolvimento Front-End.
 🚀 Buscando oportunidades para crescer profissionalmente, aprender novas tecnologias e contribuir com projetos que impactem positivamente a experiência do usuário.
 
----
-
-### 
-
 <div align="center">
   <a href="https://github.com/itsluany">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsluany&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
@@ -32,13 +28,15 @@
 
 ---
 
-### 🚀 Projetos
+### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [🌐 Meu Portfólio](https://github.com/itsluany/portfolio) | Site pessoal com projetos, contatos e habilidades. | HTML, CSS, JS |
-| [📱 App Farmácia Saúde+](https://github.com/itsluany/farmacia-saude) | Projeto de extensão para farmácias de bairro, com cadastro de produtos e clientes. | HTML, JS, LocalStorage |
-| [💻 Calculadora JS](https://github.com/itsluany/calculadora-js) | Calculadora simples com JavaScript puro. | HTML, CSS, JS |
+| [📱 App Farmácia Saúde+](https://github.com/itsluany/historico-de-compras-jmfarma) | Projeto de extensão para farmácias de bairro, com cadastro de produtos e clientes. | HTML, JS, LocalStorage |
+| [💻 Calculadora (https://github.com/itsluany/Calculadora-Simples) | Calculadora simples com JavaScript puro. | HTML, Python |
+| [📚 Site de Resenhas](https://github.com/itsluany/Site-de-Resenhas) | Site voltado para publicação e visualização de resenhas literárias. | HTML |
+| [🐍 Jogo da Cobrinha](https://github.com/itsluany/Jogo-da-Cobrinha) | Versão simples do clássico jogo da cobrinha. | HTML, CSS, JS |
 
 ---
 
