@@ -11,9 +11,6 @@
   </a>
 </div>
 
----
-
-### 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luany-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luany-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,7 +31,6 @@
 |--------|-----------|-------------|
 | [🌐 Meu Portfólio](https://github.com/itsluany/portfolio) | Site pessoal com projetos, contatos e habilidades. | HTML, CSS, JS |
 | [📱 App Farmácia Saúde+](https://github.com/itsluany/historico-de-compras-jmfarma) | Projeto de extensão para farmácias de bairro, com cadastro de produtos e clientes. | HTML, JS, LocalStorage |
-| [💻 Calculadora (https://github.com/itsluany/Calculadora-Simples) | Calculadora simples com JavaScript puro. | HTML, Python |
 | [📚 Site de Resenhas](https://github.com/itsluany/Site-de-Resenhas) | Site voltado para publicação e visualização de resenhas literárias. | HTML |
 | [🐍 Jogo da Cobrinha](https://github.com/itsluany/Jogo-da-Cobrinha) | Versão simples do clássico jogo da cobrinha. | HTML, CSS, JS |
 
