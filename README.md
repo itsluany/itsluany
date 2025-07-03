@@ -19,6 +19,7 @@
 <div> 
   <a href="mailto:luanysferreira19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/itsluany" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://discord.com/users/lululi" target="_blank"><img src="https://img.shields.io/badge/-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://instagram.com/itsluany" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://x.com/itsluaany" target="_blank"><img src="https://img.shields.io/badge/-X-%23121011?style=for-the-badge&logo=twitter&logoColor=white"></a>    
 
