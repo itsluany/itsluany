@@ -20,7 +20,17 @@
 </div>
 
 ##
+![Estudando atualmente](https://img.shields.io/badge/Estudando-React%20|%20Git%20|%20Figma-blue?style=for-the-badge&logo=bookstack&logoColor=white)
 
+### 🚀 Projetos
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [🌐 Meu Portfólio](https://github.com/itsluany/portfolio) | Site pessoal com projetos, contatos e habilidades. | HTML, CSS, JS |
+| [📱 App Farmácia Saúde+](https://github.com/itsluany/farmacia-saude) | Projeto de extensão para farmácias de bairro, com cadastro de produtos e clientes. | HTML, JS, LocalStorage |
+| [💻 Calculadora JS](https://github.com/itsluany/calculadora-js) | Calculadora simples com JavaScript puro. | HTML, CSS, JS |
+
+##
 <div> 
   <a href="mailto:luanysferreira19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/itsluany" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
