@@ -18,12 +18,12 @@
   <img align="center" alt="Luany-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
----
 
 ### 🧠 Atualmente estudando:
-![Estudando atualmente](https://img.shields.io/badge/Estudando-React%20|%20Git%20|%20Figma-blue?style=for-the-badge&logo=bookstack&logoColor=white)
+![Estudando atualmente](https://img.shields.io/badge/Estudando-React%20|%20Java%20|%20Excel-blue?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ---
+
 
 ### 🚀 Projetos em Destaque
 
