@@ -32,7 +32,7 @@
 
  
 ### 🧠 Atualmente estudando:
-![Estudando atualmente](https://img.shields.io/badge/Estudando-React%20|%20Java%20|%20Excel-blue?style=for-the-badge&logo=bookstack&logoColor=white)
+![Estudando atualmente](https://img.shields.io/badge/Estudando-%20Java%20|%20Excel-blue?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ---
 
